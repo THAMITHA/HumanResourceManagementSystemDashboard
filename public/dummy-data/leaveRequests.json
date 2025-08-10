@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "employee": "John Doe",
+    "leaveType": "Sick Leave",
+    "dates": "2025-08-12 to 2025-08-14",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "employee": "Jane Smith",
+    "leaveType": "Annual Leave",
+    "dates": "2025-09-01 to 2025-09-10",
+    "status": "Approved"
+  }
+]

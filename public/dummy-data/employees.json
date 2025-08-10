@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "department": "Engineering",
+    "role": "Frontend Developer",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "department": "HR",
+    "role": "HR Manager",
+    "status": "Inactive"
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "email": "michael.johnson@example.com",
+    "department": "Finance",
+    "role": "Accountant",
+    "status": "Active"
+  }
+]
